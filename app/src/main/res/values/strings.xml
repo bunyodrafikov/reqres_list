@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ReqRes List</string>
+    <string name="john">John</string>
+    <string name="doe">Doe</string>
+    <string name="john_doe_email">john_doe@yahoo.com</string>
+    <string name="userId">7</string>
+    <string name="john_doe">John Doe</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="email_hint">e-mail</string>
+    <string name="refresh_data">Refresh Data</string>
+    <string name="avatar">Avatar</string>
+</resources>
